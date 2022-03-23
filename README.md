@@ -1,5 +1,5 @@
 # scripting
 documentation for artemis client's scripting
 
-#GITBOOK LINK: 
+# GITBOOK LINK: 
 [https://therealg8lol.gitbook.io/api-docs/](url)
